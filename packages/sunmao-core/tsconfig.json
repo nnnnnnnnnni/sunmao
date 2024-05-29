@@ -1,0 +1,5 @@
+{
+  "extends": "@sunmao/tsconfig/react-library.json",
+  "include": [".", "../sunmao-materials/rollup.config.js"],
+  "exclude": ["dist", "build", "node_modules"]
+}

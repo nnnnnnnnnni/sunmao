@@ -1,0 +1,3 @@
+@import './components/Banner/CommonBanner/index.module.css';
+@import '@bfe/moly/dist/es/theme/cssVars/index.css';
+@import '@bfe/moly/dist/es/theme/styles/tailwind.css';
